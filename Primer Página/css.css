@@ -1,0 +1,94 @@
+body{
+    background-color: #a7cca7;
+    opacity: 0.6;
+    background-image: url(https://media.tenor.com/4yEuW6bbRo0AAAAi/gato.gif); 
+    background-position: center;
+    background-repeat: repeat-x;
+    background-size: 500px;
+    text-align: center;
+    font-size: larger;
+    position: relative;
+}
+.headers{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    opacity: 1;
+    font-size: 100 px;
+    text-transform: capitalize;
+    font-size: larger;
+
+
+}
+.links-left{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    background-color: 	white;
+    color: black;
+    opacity: 1;
+    padding: 15px 35px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid black;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+}
+.links-left:hover{
+    background-color: black;
+    color: white;
+}
+.links-center{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    background-color: 	white;
+    color: black;
+    opacity: 1;
+    padding: 15px 35px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid black;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+}
+.links-center:hover{
+    background-color: black;
+    color: white;
+}
+.links-right{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    background-color: 	white;
+    color: black;
+    opacity: 1;
+    padding: 15px 35px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid black;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+}
+.links-right:hover{
+    background-color: black;
+    color: white;
+}
+.images{
+ opacity: 1;
+ display: inline-table;
+}
+.list{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: larger;
+}
